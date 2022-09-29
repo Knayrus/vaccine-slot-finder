@@ -1,6 +1,6 @@
 Core-Calamus Training-POC Demo Application
 
-1. Download the repository as a whole, or use command `git clone git@gitlab.otxlab.net:saikrisk/calamus-demo.git` with Git Bash.
+1. Download the repository as a whole, or use command `git clone git@github.com:Knayrus/vaccine-slot-finder.git` with Git Bash.
 
 2. Prerequisites for running the application are Python, and Django. 
 
